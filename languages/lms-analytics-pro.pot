@@ -1,0 +1,86 @@
+# Copyright (C) 2024 WBCom Designs
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LMS Analytics Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/wbcomdesigns/lms-analytics-pro/issues\n"
+"POT-Creation-Date: 2024-11-03 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "LMS Analytics Pro"
+msgstr ""
+
+msgid "Student Progress Heatmap"
+msgstr ""
+
+msgid "At-Risk Students"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Export Report"
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Mark as Contacted"
+msgstr ""
+
+msgid "View Details"
+msgstr ""
+
+msgid "Data loaded successfully"
+msgstr ""
+
+msgid "Error loading data"
+msgstr ""
+
+msgid "Message sent successfully"
+msgstr ""
+
+msgid "Export completed"
+msgstr ""
+
+msgid "Export failed"
+msgstr ""
+
+msgid "You do not have permission to view analytics."
+msgstr ""
+
+msgid "Too many requests. Please wait a moment."
+msgstr ""
+
+msgid "Failed to load heatmap data"
+msgstr ""
+
+msgid "Student At-Risk Alert"
+msgstr ""
+
+msgid "Checking in on your progress"
+msgstr ""
+
+msgid "We miss you!"
+msgstr ""
+
+msgid "Continue Learning"
+msgstr ""
+
+msgid "LMS Analytics Pro requires PHP 7.4 or higher."
+msgstr ""
+
+msgid "LMS Analytics Pro requires WordPress 5.8 or higher."
+msgstr ""
+
+msgid "LMS Analytics Pro requires LearnDash to be installed and activated."
+msgstr ""

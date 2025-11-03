@@ -1,0 +1,12 @@
+/**
+ * LMS Analytics Pro - Public Styles
+ *
+ * @package    LMS_Analytics_Pro
+ * @subpackage Public/CSS
+ * @since      1.0.0
+ */
+
+/* Public-facing styles - minimal for now */
+.lap-public-container {
+    margin: 20px 0;
+}

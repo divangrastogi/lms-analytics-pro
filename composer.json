@@ -1,0 +1,31 @@
+{
+    "name": "wbcom/lms-analytics-pro",
+    "description": "Comprehensive student analytics with progress heatmaps and intelligent dropout detection for LearnDash and BuddyBoss.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Divang Rastogi",
+            "email": "divang@wbcomdesigns.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "yoast/phpunit-polyfills": "^1.0",
+        "wp-cli/wp-cli": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "LMS_Analytics_Pro\\": "includes/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
